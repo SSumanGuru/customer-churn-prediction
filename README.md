@@ -183,5 +183,3 @@ Data Science & Analytics
 🔗 [LinkedIn](https://linkedin.com/in/ssumanguru) | [GitHub](https://github.com/SSumanGuru)
 
 ---
-
-*⭐ If you found this project helpful, consider giving it a star!*
