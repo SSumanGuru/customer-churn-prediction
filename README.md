@@ -145,7 +145,7 @@ customer-churn-analysis/
 │   ├── Customer Churn Data.xlsx           # Original dataset
 │
 ├── notebooks/
-│   ├── Capstone Project Final.ipynb
+│   ├── Customer Churn code.ipynb
 │
 ├── report and presentation/
 │   ├── Customer Churn Report.pdf
